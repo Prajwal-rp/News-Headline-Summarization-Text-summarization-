@@ -21,6 +21,8 @@ piece of it
 We are using a news data set to generate headlines. The data set consists of text and
 headlines for more than 3000 records.
 
+The EDA for the data will be found in T5_Summarization.ipynb
+
 
 # Approach:
 There are two main ways to summarize text in NLP: 
